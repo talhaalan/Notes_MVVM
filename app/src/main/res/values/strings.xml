@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_notes">No notes</string>
+    <string name="type_your_title">Type your title</string>
+    <string name="type_something">Type something...</string>
+    <string name="save_note">Note saved successfully</string>
+    <string name="enter_title">Please enter note title.</string>
+    <string name="note_updated">Note updated successfully</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="delete_note_message">Are you sure to delete this note?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+</resources>

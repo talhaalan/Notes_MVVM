@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notlar</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_notes">Not yok</string>
+    <string name="type_your_title">Not başlığı girin</string>
+    <string name="type_something">Not açıklaması</string>
+    <string name="save_note">Not kaydedildi</string>
+    <string name="enter_title">Lütfen başlık girin</string>
+    <string name="note_updated">Not güncellendi</string>
+    <string name="delete_note">Notu sil</string>
+    <string name="delete_note_message">Notu silmek istediğine emin misin?</string>
+    <string name="delete">Sil</string>
+    <string name="cancel">İptal et</string>
+    <string name="search">Ara</string>
+    <string name="save">Kaydet</string>
+
+
+</resources>
